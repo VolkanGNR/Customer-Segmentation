@@ -13,18 +13,6 @@ Customer segmentation is crucial for personalized marketing and business strateg
 
 ---
 
-## 📊 Dataset
-
-The dataset used in this project includes features such as:
-- **Customer ID**
-- **Annual Income**
-- **Spending Score**
-- **Age**
-
-*Note: You can replace this section with actual dataset details if different.*
-
----
-
 ## 🛠️ Tools & Technologies
 
 - Python
@@ -42,7 +30,7 @@ The dataset used in this project includes features such as:
 - Data Preprocessing
 - Feature Scaling
 - K-Means Clustering
-- Cluster Visualization using 2D and 3D plots
+- Cluster Visualization 
 
 ---
 
